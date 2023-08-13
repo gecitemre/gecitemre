@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior CS student at Middle East Technical University.
+I am a Senior CS student at Middle East Technical University.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gecitemre&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
