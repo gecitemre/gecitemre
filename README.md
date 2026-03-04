@@ -1,5 +1,4 @@
-# 💫 About Me:
-Software Engineer
+https://gecit.dev/
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
