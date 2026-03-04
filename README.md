@@ -1,4 +1,5 @@
-[Here I am!](https://gecit.dev/)
+# 💫 About Me:
+a computer enthusiast
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
